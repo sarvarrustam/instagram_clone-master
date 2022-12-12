@@ -17,7 +17,7 @@ import 'package:instagram_clone/utils/app_utils_export.dart';
 import 'package:instagram_clone/pages/main/main_view.dart';
 
 /*
-Created by Rustamov Sarvarjon on 09:53:38 12.12.2022
+Created by Rustamov Sarvarjon on 18:54:39 20.09.2022
 © 2022*/
 //https://t.me/sarvar_bloger
 
